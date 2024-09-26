@@ -63,3 +63,4 @@ Al ejecutar el programa, se abrirá una ventana que muestra la imagen BMP cargad
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+-
